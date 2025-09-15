@@ -1,0 +1,36 @@
+project:
+  type: book
+  output-dir: docs   # onde vão os arquivos prontos para publicar
+
+book:
+  title: "Tópicos Especiais em Linguística"
+  author: "Ananias Silva e Mário Martins"
+
+  chapters:
+    - part: "Apresentação"
+      chapters:
+        - index.qmd
+
+    - part: "Unidade I"
+      chapters:
+        - Aula_01.qmd
+        - Aula_04.qmd
+
+    - part: "Complementos"
+      chapters:
+        - portifolio.qmd
+
+format:
+  html:
+    theme: litera
+    toc: true
+    number-sections: true
+    callout-appearance: simple
+    css: custom.css
+    
+  
+# quarto render
+# quarto preview
+# git add .
+# git commit -m "Atualiza conteúdos importantes"
+# git push

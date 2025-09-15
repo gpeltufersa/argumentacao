@@ -1,0 +1,224 @@
+---
+title: "Retórica como técnica ou arte"
+---
+
+::: titulo-nao-numerado
+História da Retórica
+:::
+
+::: subtitulo-nao-numerado
+A Retórica como técnica sistemática e metódica para persuadir
+:::
+
+::: destaque
+
+::: subsubtitulo-nao-numerado
+Origem: século V a.C., Siracusa (Sicília)
+:::
+
+- Regime de tirania: tiranos destinaram as terras espoliadas a seus soldados.
+
+- Queda do general Tarsíbulo.
+
+- Regime democrático: reintegração de posses de terras – mais de uma pessoa reivindicava.
+
+- Instalação de júris: argumentar com suficiência.
+
+- Desenvolvimento, por algumas pessoas, de nítidas habilidades argumentativas e oratórias destinadas a persuadir.
+
+- Retórica como arte/técnica: reunião engenhosa e laboriosa de procedimentos organizados na base de regras que ambicionam a persuasão do partido contrário, seja por discurso escrito ou falado.
+
+- Grécia: os sofistas – pessoas especializadas em persuadir e ensinar a persuadir os dois lados de uma mesma questão.
+
+- A verdade os valores como relativos e não absolutos.
+
+- A retórica passou a ser ensinada como disciplina nas escolas. 
+
+- Na Idade Média: integrou o Trivium: gramática, lógica e retórica. 
+:::
+
+::: subtitulo-nao-numerado
+Precursores
+:::
+
+::: destaque
+
+::: subsubtitulo-nao-numerado
+Aristóteles
+:::
+
+Técnica — arte de persuadir racionalmente com ethos, pathos e logos.
+
+::: subsubtitulo-nao-numerado
+Quintiliano
+:::
+
+Moral — “o orador é o homem bom que fala bem”.
+
+::: subsubtitulo-nao-numerado
+Platão
+:::
+
+Desconfiança — retórica como persuasão enganosa (sofística).
+
+::: subsubtitulo-nao-numerado
+Cícero
+:::
+
+Eloquência — unir sabedoria e oratória para o bem comum.
+:::
+
+::: subtitulo-nao-numerado
+Adormecimento e renascimento
+:::
+
+::: destaque
+- Sinônimo de figura e tropos de linguagem – função ornamental.
+
+- Declínio: aparecimento de um ideal de transparência, de objetividade, de neutralidade, de racionalidade da linguagem.
+
+- 1950: renascimento – filósofos belgas Chaim Perelman e Lucie Olbrechsts Tyteca e do inglês Stephen Toulmin – questionamento do positivismo.
+
+- A Retórica sempre se fez presente, de maneira visível, na rotina do dia a dia, selando a cultura dos diferentes períodos históricos. 
+:::
+
+::: .subtitulo-naonumerado
+Retórica hoje
+:::
+
+- As modernas investigações em ciências da linguagem sempre sinalizam para a faceta argumentativa constitutiva de todas as manifestações linguísticas, pela qual os sujeitos buscam atuar sobre os outros, influenciando-os ou reorientando-lhes a ação e o comportamento. 
+
+- A perspectiva persuasiva da linguagem decorre do fato de todo discurso ser dialógico. 
+
+
+- Existem textos cujo âmbito argumentativo apresenta-se explícito – visada argumentativa. 
+
+- Em outros, tal dimensão permanece apenas implícita – dimensão argumentativa.   
+
+::: subtitulo-naonumerado
+Retórica e raciocínios
+:::
+
+::: destaque
+- A Retórica opera no campo da doxa, quer dizer, da opinião e do conflito de subjetividades.
+
+- A persuasão retórica é o recurso pelo qual o orador conduz alguém a aderia a alguma coisa a respeito de uma questão controversa, que origina partidos contrários dedicados a defender posições igualmente opostas.
+
+- A persuasão atua com incertezas e o improvável, quando é factível defender pontos de vista contrários.
+
+- Os raciocínios não são necessários, mas preferíveis.
+    - Necessários: as conclusões nascem obrigatoriamente das premissas.
+    - Preferíveis: conclusões da ordem do possível e do provável – dependem dos valores, da mundividência, das disposições anímicas e subjetivas das pessoas envolvidas.    
+:::
+
+::: formulario
+
+::: subsubtitulo-nao-numerado
+Exemplos de raciocínio necessário (silogismos)
+:::
+
+“A lei eleitoral estabelece que menores de 16 anos não podem votar. João tem 15 anos. Logo, João não poderá votar este ano.” 
+
+“Todo cigarro contém substâncias tóxicas. Quem fuma absorve essas substâncias. Logo, quem fuma prejudica a saúde.”  
+
+“É proibido dirigir sem habilitação. Quem for flagrado estará sujeito a multa e apreensão do veículo.”
+:::
+
+<br/>
+
+::: formulario
+
+::: subsubtitulo-nao-numerado
+Silogismo reconstruído
+:::
+
+Todos os que dirigem sem habilitação cometem infração.
+
+João dirigiu sem habilitação.
+
+Logo, João cometeu infração e será multado.
+:::
+
+::: destaque
+- Esse é o campo da lógica. 
+
+- O mundo da Retórica é outro: aceitar a discriminação do aborto ou considerá-lo crime não é algo que se resolva com a ciência, mas antes com opiniões ligadas a valores, hierarquia de valores, convicções, crenças e percepções à luz das quais consideramos o aborto como crime, como assunto religioso, como problema de saúde pública ou como uma questão intimamente atrelada ao corpo da mulher e a suas decisões. 
+
+- Certas questões retóricas podem ser converter em aporias conceituais (oposições de caráter conflitual aparentemente insolúveis) porque são dialéticas ao extremo: :::
+:::
+
+::: formulario
+
+::: subtitulo-nao-numerado
+Aporias conceituais
+:::
+
+O aborto deve ser entendido como direito da mulher ou crime?  
+O mundo está cada vez pior?  
+Os povos indígenas devem ser respeitados em suas especificidades ou diluídos na sociedade “branca”?  
+A eutanásia deve ser punida criminalmente ou é um gesto de compaixão?  
+A maconha deve ou não ser descriminalizada?  
+:::
+
+::: subtitulo-nao-numerado
+Partes do discurso retórico
+:::
+
+::: destaque
+A Retórica clássica identificava cinco etapas:  
+
+- **Invenção** – Primeira fase de elaboração do discurso retórico. O momento de encontrar – e não exatamente criar – argumentos adequados à matéria debatida. Lugar da qualidade, da quantidade, da essência, da pessoa etc.
+
+::: citacao
+Lugares da argumentação: “grandes armazéns de argumentos, utilizados para estabelecer acordos com o auditório” (Ferreira, 2010, p. 69).
+:::
+
+- **Disposição** – Seleção e ordenação estratégica das partes ou segmentos do discurso.
+Macroestrutura textual do discurso retórico.  
+
+- **Memória** – Na antiguidade, o discurso deveria ser decorado, pois não se tinha o uso de suporte material para fazer lembrar o orador do que e quando dizer.
+
+- **Elocução** – Transposição para a linguagem das ideias achadas na invenção e ordenadas pela disposição.
+
+- **Ação** – Ou pronunciação: processo em que o texto é pronunciado pela voz e veiculado com o auxílio dos gestões diante do auditório. 
+:::
+
+::: subtitulo-nao-numerado
+Conceitos-chave
+:::
+
+::: destaque
+- **Orador**
+
+Cabe a tarefa de persuadir o auditório quem é dirigido o discurso de que a sua tese é verossímil e merece sua adesão.
+
+É quem veicula o discurso sempre tendo em vista a adesão do auditório à tese que se lhe apresenta. 
+
+::: citacao
+“(...) aquele que fala ou escreve para convencer” (Reboul, 1994, p. 8).
+:::
+
+- **Auditório**
+
+É a quem o orador se dirige. 
+
+A mensagem deve a ele ser adaptada e com ele o orador precisa manter alguma comunhão.
+
+Podem ser homogêneos (particulares) ou compósitos (universais.
+
+Determina a qualidade da argumentação e o comportamento dos oradores. 
+
+- **Questão**
+
+É motivada pela problematização de um tema.
+
+Trata-se do nó do conflito da situação retórica.
+
+Ela instaura a dúvida que suscitará às teses que serão apresentadas ao auditório. 
+
+Pode estar apenas subjacente às discussões ou explicitamente colocadas.  
+
+- **Tese**
+
+O enunciado em que o orador expressa ao auditório sua opinião sobre a questão discutida leva o nome de proposição ou tese. A tese deve ser anunciada por meio de formato conciso e inteligível a tal ponto que, desde o princípio do discurso, o auditória entenda claramente aquilo que ele precisa julgar.
+:::

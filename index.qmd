@@ -1,0 +1,29 @@
+---
+title: "Informações sobre a disciplina"
+---
+
+::: titulo-nao-numerado
+Tópicos Especiais em Linguística  
+:::
+
+::: subtitulo-nao-numerado
+Ementa
+:::
+
+A argumentação no discurso e na língua. Da retórica aristotélica aos estudos contemporâneos. Argumentação e ensino de língua portuguesa.  
+
+::: subtitulo-nao-numerado
+Carga-horária
+:::
+
+60h  
+
+::: subtitulo-nao-numerado
+Professores
+:::
+
+Ananias Silva e Mário Martins
+
+::: callout-tip
+Para melhor navegação, use o menu lateral ou a busca no topo da página.
+:::

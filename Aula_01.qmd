@@ -1,0 +1,108 @@
+---
+title: "Introdução: primeiras palavras"
+---
+
+::: titulo-nao-numerado
+Argumentação
+:::
+
+::: citacao
+“Todos nós teríamos muito mais êxito em nossas vidas, produziríamos muito mais e seríamos muito mais felizes, se nos preocupássemos em gerenciar nossas relações com as pessoas que nos rodeiam, desde o campo profissional até o pessoal. Mas para isso, é necessário saber conversar com elas, argumentar, para que exponham seus pontos de vista, seus motivos e para que nós também possamos fazer o mesmo.” *(Abreu, 2006, p. 10)*
+=======
+title: "Introdução"
+---
+
+
+::: {.subtitulo-naonumerado}
+Por que aprender a argumentar?
+>>>>>>> f0f02c7 (Atualiza conteúdo)
+:::
+
+
+::: citacao
+“Segundo o senso comum, argumentar é vencer alguém, forçá-lo a submeter-se à nossa vontade. Definição errada! (...). Seja em família, no trabalho, no esporte ou na política, saber argumentar é, em primeiro lugar, saber integrar-se ao universo do outro. É também obter aquilo que queremos, mas de modo cooperativo e construtivo, traduzindo nossa verdade dentro da verdade do outro.” *(Abreu, 2006, p. 10)*
+:::
+
+
+::: subtitulo-nao-numerado
+Gerenciar informações
+:::
+
+::: citacao
+“(...) não basta ser inteligente, ter uma boa formação universitária, falar várias línguas, para ser bem-sucedido. (...) o verdadeiro sucesso depende da habilidade de relacionamento interpessoal, da capacidade de compreender e comunicar ideias e emoções.” *(Abreu, 2006, p. 10)*
+:::
+
+::: citacao
+“(...) o mais importante não são as informações em si, mas o ato de transformá-las em conhecimento. As informações são tijolos e conhecimento é o edifício que construímos com eles.” *(Abreu, 2006, p. 12)*
+:::
+
+::: citacao
+“Mas onde é que vamos buscar esses tijolos? (...) dentro da mídia escrita e falada.” *(Abreu, 2006, p. 12)*
+:::
+
+::: citacao
+“(...) a mídia nos oferece uma visão tubular das coisas”. *(Abreu, 2006, p. 12)*
+:::
+
+::: citacao
+“Além do alinhamento de pontos de vista, existem ainda os processos de manipulação” *(Abreu, 2006, p. 13)*
+:::
+
+::: subtitulo-nao-numerado
+Como nos defender de tudo isso?
+:::
+
+Leitura seletiva da mídia, crítica das informações circuladas nela, construindo conhecimento original.
+
+::: subtitulo-nao-numerado
+Gerenciar relação
+:::
+
+::: citacao
+“Quando entramos em contato com o outro, não gerenciamos apenas informações, mas também a nossa relação com ele” *(Abreu, 2006, p. 17)*
+
+- Um diálogo, por vezes, é puro gerenciamento de relação – “bom dia”!
+- No espaço privado, gerenciamos menos relação e mais informação – “por favor!”
+- No espaço público, por questão de sobrevivência, gerenciamos mais relação.
+:::
+
+::: citacao
+“O outro deve ser visto por nós como uma aventura. Temos de arriscar! Nós nunca estamos diante de pessoas prontas e também não somos pessoas prontas. É no relacionamento com o outro que vamos nos construindo como pessoas humanas e ganhando condições de sermos felizes.” *(Abreu, 2006, p. 20)*
+:::
+
+::: subtitulo-nao-numerado
+Argumentar, convencer e persuadir
+:::
+
+- Argumentar é a arte de convencer e persuadir.
+- Convencer é saber gerenciar informação, é falar à razão do outro, demonstrando, provando.  
+  - Convencer: vencer junto com o outro.
+- Persuadir é saber gerenciar relação, é falar à emoção do outro.  
+  - Persuadir: *per* (por meio de) + *suada* (deusa romana da persuasão).
+
+- **Convencer** = construir algo no campo das ideias.
+- **Persuadir** = construir no terreno das emoções, é sensibilizar o outro para agir.
+
+::: subtitulo-nao-numerado
+Exemplo
+:::
+
+Um médico mostra exames e dados científicos que comprovam que o paciente precisa parar de fumar.
+
+- O paciente entende racionalmente (está convencido), mas não muda o hábito porque ainda não foi emocionalmente tocado (não foi persuadido).
+
+Uma estudante quer muito estudar em uma universidade fora da sua cidade porque sente o desejo de independência (já está persuadida pela emoção).
+
+- Porém, precisa que alguém explique a viabilidade financeira, a qualidade do curso e os dados práticos para confirmar que é realmente possível (precisa ser convencida pela razão).
+
+Um jovem compra um tênis caro porque o influenciador que ele admira usa e fala com entusiasmo sobre o produto.
+
+- Ele foi emocionalmente envolvido (persuadido), mas não está racionalmente convencido — talvez nem saiba explicar por que aquele tênis seria tecnicamente melhor.
+
+::: subtitulo-nao-numerado
+Definição final
+:::
+
+::: citacao
+“Argumentar é, pois, em última análise, a arte de, gerenciando informação, convencer o outro de alguma coisa no plano das ideias e de, gerenciando relação, persuadi-lo, no plano das emoções, a fazer alguma coisa que nós desejamos que ele faça.” *(Abreu, 2006, p. 26)*
+:::

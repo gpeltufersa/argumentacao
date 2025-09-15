@@ -6,18 +6,13 @@ title: "Introdução: primeiras palavras"
 Argumentação
 :::
 
-::: citacao
-“Todos nós teríamos muito mais êxito em nossas vidas, produziríamos muito mais e seríamos muito mais felizes, se nos preocupássemos em gerenciar nossas relações com as pessoas que nos rodeiam, desde o campo profissional até o pessoal. Mas para isso, é necessário saber conversar com elas, argumentar, para que exponham seus pontos de vista, seus motivos e para que nós também possamos fazer o mesmo.” *(Abreu, 2006, p. 10)*
-=======
-title: "Introdução"
----
-
-
-::: {.subtitulo-naonumerado}
+::: subtitulo-nao-numerado
 Por que aprender a argumentar?
->>>>>>> f0f02c7 (Atualiza conteúdo)
 :::
 
+::: citacao
+“Todos nós teríamos muito mais êxito em nossas vidas, produziríamos muito mais e seríamos muito mais felizes, se nos preocupássemos em gerenciar nossas relações com as pessoas que nos rodeiam, desde o campo profissional até o pessoal. Mas para isso, é necessário saber conversar com elas, argumentar, para que exponham seus pontos de vista, seus motivos e para que nós também possamos fazer o mesmo.” *(Abreu, 2006, p. 10)*
+:::
 
 ::: citacao
 “Segundo o senso comum, argumentar é vencer alguém, forçá-lo a submeter-se à nossa vontade. Definição errada! (...). Seja em família, no trabalho, no esporte ou na política, saber argumentar é, em primeiro lugar, saber integrar-se ao universo do outro. É também obter aquilo que queremos, mas de modo cooperativo e construtivo, traduzindo nossa verdade dentro da verdade do outro.” *(Abreu, 2006, p. 10)*
@@ -99,10 +94,11 @@ Um jovem compra um tênis caro porque o influenciador que ele admira usa e fala 
 
 - Ele foi emocionalmente envolvido (persuadido), mas não está racionalmente convencido — talvez nem saiba explicar por que aquele tênis seria tecnicamente melhor.
 
+::: citacao
+
 ::: subtitulo-nao-numerado
 Definição final
 :::
 
-::: citacao
 “Argumentar é, pois, em última análise, a arte de, gerenciando informação, convencer o outro de alguma coisa no plano das ideias e de, gerenciando relação, persuadi-lo, no plano das emoções, a fazer alguma coisa que nós desejamos que ele faça.” *(Abreu, 2006, p. 26)*
 :::

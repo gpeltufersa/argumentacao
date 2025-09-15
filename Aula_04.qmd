@@ -1,20 +1,17 @@
 ---
 title: "Tarefa: Análise de publicidades no YT"
 ---
+::: titulo-nao-numerado
+Tarefa em dupla: Análise de publicidade no YouTube
+:::
 
 ::: callout-tip
-## 🎯 Objetivo
+**Objetivo**
 Desenvolver a habilidade de identificar o **auditório**, os **recursos argumentativos** e a **eficácia persuasiva** de discursos multimodais.
 :::
 
-<<<<<<< HEAD
-Exercício em dupla – Análise de publicidade no YouTube"
-=======
-Tarefa em dupla – Análise de publicidades no YouTube"
->>>>>>> f0f02c7 (Atualiza conteúdo)
-
 ::: callout-note
-## 1. Escolha do anúncio (critérios obrigatórios)
+1. Escolha do anúncio (critérios obrigatórios)
 
 - **Duração:** entre **30 segundos e 2 minutos**.  
 - **Disponibilidade:** deve estar publicado no **YouTube** em canal oficial da marca.  
@@ -26,10 +23,8 @@ Tarefa em dupla – Análise de publicidades no YouTube"
   - Saúde e bem-estar (ex.: cosméticos, academias, suplementos)  
 :::
 
----
-
 ::: callout-important
-## 2. Análise do anúncio
+2. Análise do anúncio
 
 Em dupla, assistam ao anúncio escolhido e respondam:
 
@@ -39,99 +34,16 @@ Em dupla, assistam ao anúncio escolhido e respondam:
   - *Emocionais*: humor, empatia, apelo à beleza, status etc.  
 :::
 
----
-
 ::: callout-warning
-## 3. Produção escrita
+3. Produção escrita
 
 - Elaborem **um parágrafo argumentativo** sobre a capacidade persuasiva do anúncio.  
 - A posição de vocês deve ficar clara: a publicidade **convence ou não**?  
 - Defendam sua opinião com **argumentos racionais** e utilizem **conectores lógicos** (*portanto, porque, logo, no entanto*).  
 :::
 
-## 📥 Envio da resposta
+::: callout-warning
+4. Envio da resposta
 
-<<<<<<< HEAD
-```{=html}
-<form id="form-anuncio" style="max-width:680px">
-  <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
-    <div>
-      <label for="discente1" style="display:block;margin-top:1rem;font-weight:600">Nome completo (Discente 1)</label>
-      <input type="text" id="discente1" name="discente1" required
-             style="width:100%;padding:.6rem;margin-top:.35rem;border:1px solid #ccc;border-radius:6px">
-
-      <label for="email1" style="display:block;margin-top:1rem;font-weight:600">Email (Discente 1)</label>
-      <input type="email" id="email1" name="email1" required
-             style="width:100%;padding:.6rem;margin-top:.35rem;border:1px solid #ccc;border-radius:6px">
-    </div>
-
-    <div>
-      <label for="discente2" style="display:block;margin-top:1rem;font-weight:600">Nome completo (Discente 2)</label>
-      <input type="text" id="discente2" name="discente2" required
-             style="width:100%;padding:.6rem;margin-top:.35rem;border:1px solid #ccc;border-radius:6px">
-
-      <label for="email2" style="display:block;margin-top:1rem;font-weight:600">Email (Discente 2)</label>
-      <input type="email" id="email2" name="email2" required
-             style="width:100%;padding:.6rem;margin-top:.35rem;border:1px solid #ccc;border-radius:6px">
-    </div>
-  </div>
-
-  <label for="link" style="display:block;margin-top:1rem;font-weight:600">Link do anúncio publicitário escolhido</label>
-  <input type="url" id="link" name="link" placeholder="https://..." required
-         style="width:100%;padding:.6rem;margin-top:.35rem;border:1px solid #ccc;border-radius:6px">
-
-  <label for="paragrafo" style="display:block;margin-top:1rem;font-weight:600">Parágrafo argumentativo</label>
-  <textarea id="paragrafo" name="paragrafo" placeholder="Escreva aqui seu parágrafo..." required
-            style="width:100%;min-height:160px;padding:.6rem;margin-top:.35rem;border:1px solid #ccc;border-radius:6px"></textarea>
-
-  <button type="submit"
-          style="margin-top:1.2rem;padding:.8rem 1.2rem;background:#2e7d32;color:#fff;border:0;border-radius:6px;cursor:pointer;font-size:1rem">
-    Enviar
-  </button>
-  <div id="status" class="msg" aria-live="polite" style="margin-top:1rem;font-weight:600"></div>
-</form>
-
-<script>
-  // Cole aqui a URL /exec do seu Web App recém-deployado
-  const WEBAPP_URL = "https://script.google.com/macros/s/AKfycbznihHGCw1TDuP5R080gqlYJT7aZeTav1vWcn9APvpiztWNXmYwqNBQKe-PktPZ7f403A/exec";
-
-  document.getElementById("form-anuncio").addEventListener("submit", async (ev) => {
-    ev.preventDefault();
-    const status = document.getElementById("status");
-    status.style.color = "";
-    status.textContent = "Enviando...";
-
-    const payload = new URLSearchParams({
-      nome1: document.getElementById("discente1").value.trim(),
-      email1: document.getElementById("email1").value.trim(),
-      nome2: document.getElementById("discente2").value.trim(),
-      email2: document.getElementById("email2").value.trim(),
-      link:  document.getElementById("link").value.trim(),
-      resposta: document.getElementById("paragrafo").value.trim()
-    });
-
-    try {
-      const resp = await fetch(WEBAPP_URL, {
-        method: "POST",
-        headers: { "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8" },
-        body: payload.toString()
-      });
-
-      const data = await resp.json();
-      if (data.ok) {
-        status.style.color = "#2e7d32";
-        status.textContent = "✅ Enviado com sucesso!";
-        ev.target.reset();
-      } else {
-        status.style.color = "#c62828";
-        status.textContent = "❌ Erro: " + (data.error || "Não foi possível enviar.");
-      }
-    } catch (err) {
-      status.style.color = "#c62828";
-      status.textContent = "❌ Falha de rede ou permissão. Confira o deploy (Anyone) e a URL /exec.";
-    }
-  });
-</script>
-```
-=======
 Elabore o texto de apresentação do seu novo currículo. Rascunhe-o no seu caderno e somente depois transcreva-o no [Caderno de Respostas](portifolio.qmd). Selecione a tarefa: **Apresentação para o Lattes**.
+:::

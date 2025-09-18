@@ -1,0 +1,84 @@
+---
+title: "Ethos e estereótipos"
+---
+
+::: titulo-nao-numerado
+A construção da imagem de si no discurso
+:::
+
+::: subtitulo-nao-numerado
+A noção de *ethos*
+:::
+
+::: destaque
+
+::: subsubtitulo-nao-numerado
+Ethos como imagem de si construída discursivamente
+:::
+
+> “A maneira de dizer autoriza a construção de uma verdadeira imagem de si e, na medida em que o locutário se vê obrigado a depreendê-la a partir de diversos índices discursivos, ela contribui para o estabelecimento de uma inter-relação entre o locutor e seu parceiro. Participando da eficácia da palavra, a imagem quer causar impacto e suscitar a adesão.”  
+> — *Amossy (2005, p. 16)*
+
+- Todo ato de fala implica a construção de uma imagem de si (*ethos*).
+- Não é necessário falar de si: o estilo, as crenças e o vocabulário já constroem essa imagem.
+- Segundo Maingueneau (2008), o ethos não é dito, mas **mostrado** pela forma de enunciação.
+
+:::
+
+::: subtitulo-nao-numerado
+A noção de *estereótipo*
+:::
+
+::: destaque
+
+::: subsubtitulo-nao-numerado
+Estereótipos como imagens culturais partilhadas
+:::
+
+- Estereótipos são **representações simplificadas** associadas a palavras e práticas sociais.
+- Embora possam mudar com o tempo, são essenciais para a comunicação em uma cultura.
+- Exemplo: "bruxa" já foi associada ao mal; hoje, esse estereótipo perdeu força.
+
+- Os estereótipos são **doxa**: crenças partilhadas socialmente que influenciam o modo como percebemos e interagimos.
+- Todo sujeito traz consigo um conjunto de representações cristalizadas de mundo.
+
+> “Estereótipo, então, seria o conjunto das características que se relacionam à pessoa do orador e à situação na qual esses traços se manifestam (...). A reconstrução se efetua com a ajuda de modelos culturais.”  
+> — *Amossy (2008, p. 127)*
+
+:::
+
+::: subtitulo-nao-numerado
+Relação entre ethos e estereótipo
+:::
+
+::: destaque
+
+::: subsubtitulo-nao-numerado
+Ethos pré-discursivo e discursivo
+:::
+
+- **Ethos pré-discursivo**: imagem construída *antes* da fala, com base em estereótipos e expectativas.
+- **Ethos discursivo**:
+  - **Ethos dito**: quando o sujeito fala diretamente de si.
+  - **Ethos mostrado**: revelado de modo indireto, pelo estilo, escolhas e modos de dizer.
+
+- O ethos é moldado por estereótipos **pré-existentes**, que influenciam como o auditório percebe o locutor.
+
+> “A comunidade avalia e percebe o indivíduo segundo um modelo pré-construído da categoria por ela difundida e no interior da qual ela o classifica.”  
+> — *Amossy (2014, p. 125-126)*
+
+- Ethos e estereótipos são, portanto, **indissociáveis**: a imagem de si que o locutor projeta só faz sentido a partir das representações coletivas da cultura em que está inserido.
+
+:::
+
+::: subtitulo-nao-numerado
+Conceitos-chave
+:::
+
+::: destaque
+- **Ethos**: imagem de si construída pelo discurso, revelada tanto de forma direta quanto indireta.
+- **Estereótipo**: representação cultural compartilhada, usada para interpretar e antecipar comportamentos e discursos.
+- **Doxa**: sistema de crenças comuns a uma comunidade, que sustenta os estereótipos.
+- **Ethos pré-discursivo**: expectativa ou imagem formada antes do discurso.
+- **Ethos discursivo**: imagem construída *durante* o discurso (dito ou mostrado).
+:::

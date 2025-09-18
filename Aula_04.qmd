@@ -1,6 +1,7 @@
 ---
 title: "Tarefa: Análise de publicidades no YT"
 ---
+
 ::: titulo-nao-numerado
 Tarefa em dupla: Análise de publicidade no YouTube
 :::
@@ -21,6 +22,7 @@ Desenvolver a habilidade de identificar o **auditório**, os **recursos argument
   - Alimentação (ex.: bebidas, comidas, restaurantes)  
   - Tecnologia (ex.: celulares, games, eletrodomésticos)  
   - Saúde e bem-estar (ex.: cosméticos, academias, suplementos)  
+
 :::
 
 ::: callout-important
@@ -32,6 +34,7 @@ Em dupla, assistam ao anúncio escolhido e respondam:
 - **Argumentos utilizados:** quais são os principais argumentos para convencer esse público?  
   - *Racionais*: dados, comparações, promessas objetivas.  
   - *Emocionais*: humor, empatia, apelo à beleza, status etc.  
+
 :::
 
 ::: callout-warning

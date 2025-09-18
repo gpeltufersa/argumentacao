@@ -1,0 +1,63 @@
+---
+title: "Ethos, logos e pathos: o discurso como encenação"
+---
+
+::: titulo-nao-numerado
+A retórica como encenação discursiva
+:::
+
+::: subtitulo-nao-numerado
+A tríade retórica: ethos, logos e pathos
+:::
+
+::: subsubtitulo-nao-numerado
+Ethos – a imagem de quem fala
+:::
+
+- Refere-se à **imagem de si** que o locutor constrói ao longo do discurso.
+- Está ligada à **credibilidade** e **autoridade** do orador diante do auditório.
+- Envolve marcas linguísticas, estilo e valores que projetam determinada identidade.
+- Não é estático nem puramente intencional: **o ethos é encenado e negociado** no discurso.
+
+> “O orador encena uma identidade, e o auditório constrói uma imagem a partir dessa encenação.”
+
+::: subsubtitulo-nao-numerado
+Pathos – a imagem de quem ouve
+:::
+
+- Representa a **imagem do auditório** construída pelo orador.
+- O orador **simula um auditório ideal**, atribuindo-lhe desejos, medos, valores e crenças.
+- Visa **mobilizar emoções**, despertar simpatias ou rejeições.
+
+> “O orador tenta tocar as emoções do auditório por meio de representações discursivas que o convocam a aderir.”
+
+::: subsubtitulo-nao-numerado
+Logos – a construção do sentido
+:::
+
+- Diz respeito à **organização racional dos argumentos** no discurso.
+- Envolve a lógica interna, a coerência e o uso estratégico de provas e justificativas.
+- É influenciado tanto pelo ethos quanto pelo pathos: a construção do sentido é **afetada pela imagem de quem fala e pela emoção de quem ouve**.
+
+::: subtitulo-nao-numerado
+O discurso como encenação
+:::
+
+::: destaque
+- O discurso retórico é uma **performance**, um jogo de **papéis** entre orador e auditório.
+- Ethos, pathos e logos não são elementos separados, mas **interdependentes**.
+- A força argumentativa do discurso depende da maneira como esses elementos são **orquestrados**.
+
+> “O discurso se torna convincente não porque apresenta provas objetivas, mas porque encena uma relação de confiança, empatia e lógica partilhada.”
+:::
+
+::: subtitulo-nao-numerado
+Conceitos-chave
+:::
+
+::: destaque
+- **Ethos**: encenação da imagem do orador (quem fala).
+- **Pathos**: construção discursiva do auditório (quem escuta).
+- **Logos**: estrutura argumentativa do discurso (o que se diz).
+- **Encenação**: performance retórica que articula os três elementos.
+:::

@@ -15,6 +15,9 @@ book:
       chapters:
         - Aula_01.qmd
         - Aula_04.qmd
+        - Aula_05.qmd
+        - Aula_06.qmd
+        - Aula_07.qmd
 
     - part: "Complementos"
       chapters:

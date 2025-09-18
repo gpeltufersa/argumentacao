@@ -1,0 +1,118 @@
+---
+title: "Tarefa: Palavras-cruzadas"
+---
+
+::: destaque
+**Instruções**
+
+Resolva a cruzadinha com base nos conceitos apresentados no texto "O pathos ou o papel das emoções na argumentação", de Ruth Amossy, e em outras leituras e diálogos que você tem feito na disciplina.
+:::
+
+```{r}
+#| label: fig-logo
+#| echo: false
+#| fig-align: center
+#| fig-cap: Palavras cruzadas
+#| out-width: 100%
+
+knitr::include_graphics("argumentacao.svg")
+```
+
+::: destaque
+**Dicas**
+
+1. Incide diretamente sobre o auditório e mobiliza emoções  
+2. Estados afetivos que influenciam decisões e podem ser argumentáveis  
+3. Busca racionalmente justificar uma posição  
+4. Campo que examina paixões, orador e estratégias discursivas  
+5. Estrutura linguístico-discursiva e lógica do texto  
+6. Público que recebe e julga a mensagem  
+7. Visa modificar opiniões, não apenas convencer  
+8. Afetos com papel essencial na argumentação segundo Aristóteles  
+9. Silogismo incompleto com premissas implícitas  
+10. Adesão do espírito a uma verdade, crucial para persuadir  
+11. Estratégia para mobilizar paixões e mover o auditório  
+12. Decisão racional influenciada por crenças e emoções  
+13. Elementos que contribuem para convencer ou persuadir  
+14. Formas verbais com valor argumentativo, como hipérbato  
+15. Elementos clássicos da retórica com nomes pouco familiares  
+:::
+
+<!--
+
+Palavras cruzadas incorporadas do site https://crosswordlabs.com/view/argumentacao-4
+```{=html}
+<iframe width="100%" height="600" style="border:3px solid black; display:block; margin:auto" frameborder="0" src="https://crosswordlabs.com/embed/argumentacao-4"></iframe>
+```
+
+
+Palavras cruzadas editadas com o pacote worrrd
+---
+title: "Tarefa: Palavras-cruzadas"
+format: html
+editor: visual
+---
+
+## 🧠 Palavras-cruzadas da Retórica
+
+As palavras abaixo representam conceitos-chave do estudo da argumentação. Resolva a cruzadinha e depois confira o gabarito!
+
+```{r}
+#| include: false
+# Carregar pacotes necessários
+library(worrrd)
+library(scales)
+
+# Vetor de palavras (letras minúsculas, sem acento)
+words <- c(
+  "pathos", "emocoes", "argumentacao", "retorica", "logos",
+  "auditorio", "persuasao", "paixoes", "entimema", "conviccao",
+  "discurso", "julgamento", "argumentos", "figuras", "tropos"
+)
+
+# Vetor de definições (clues)
+clues <- c(
+  "Incide diretamente sobre o auditório e mobiliza emoções",
+  "Estados afetivos que influenciam decisões e podem ser argumentáveis",
+  "Busca racionalmente justificar uma posição",
+  "Campo que examina paixões, orador e estratégias discursivas",
+  "Estrutura linguístico-discursiva e lógica do texto",
+  "Público que recebe e julga a mensagem",
+  "Visa modificar opiniões, não apenas convencer",
+  "Afetos com papel essencial na argumentação segundo Aristóteles",
+  "Silogismo incompleto com premissas implícitas",
+  "Adesão do espírito a uma verdade, crucial para persuadir",
+  "Estratégia para mobilizar paixões e mover o auditório",
+  "Decisão racional influenciada por crenças e emoções",
+  "Elementos que contribuem para convencer ou persuadir",
+  "Formas verbais com valor argumentativo, como hipérbato",
+  "Elementos clássicos da retórica com nomes pouco familiares"
+)
+
+# Criar cruzadinha (tamanho da grade ajustado)
+x <- crossword(words, clues, r = 60, c = 60)
+```
+
+```{r}
+#| label: cruzadinha
+#| fig-width: 13
+#| fig-height: 13
+#| fig-align: center
+
+plot(x)
+```
+
+::: destaque
+Dicas
+
+```{r}
+#| echo: false
+#| results: asis
+
+for (i in seq_along(clues)) {
+  cat(paste0("**", i, ".** ", clues[i], "  \n\n"))
+}
+```
+:::
+
+-->
